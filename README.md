@@ -12,8 +12,8 @@ The popular game tic-tac-toe by internet with UI
 3. send `XO client.exe` and your `public IP` to your friend
 4. enjoy the game
 ___
-![](https://downloader.disk.yandex.ru/preview/997c44cbadc238ec6604e5257a6df25cbbede6834ea278d49e083baeebec02aa/65447d59/HJxIMIxzxuyzJWj15zv1H0WVAlzxroWAR4fHWOj3z23leH41fOyBlZ67lb3fFCqwYTCOGHToF2YXYYCVMECOtw%3D%3D?uid=0&filename=xo-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1024x1024)
+![](https://downloader.disk.yandex.ru/preview/cd69471ba9df4c82802949a4be48e819b23ca4a7138dec3a245b28864f177973/65467e50/d8tNPGxosZClF4VpGk-zKxKGNM6nq41G8jV7-XV7yuYyrHlSrsQG9_eA02epcOFRNpLipwrI2lLgdwhyVyq2EA%3D%3D?uid=0&filename=xo-1.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1024x1024)
 ___
-![](https://downloader.disk.yandex.ru/preview/8a1ba558dd055ef6dac55048a2ddf7249d6ca58aa1b7e7eb9d69ffd2b404e319/65447d98/qqgtg1BVVthm0iIbvvPzF0WVAlzxroWAR4fHWOj3z21Om99sFAe-wC9zEMViGnKDfX64UUh64SHum1C6wAVNvA%3D%3D?uid=0&filename=xo-2.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1024x1024)
+![](https://downloader.disk.yandex.ru/preview/43943037a06fd38cb94cdf5469dc83687471e1c4b3d05f15f53074d48323479f/65467d29/Ou0Hj__u9z4W85-jcloLsbvxLD_0yKGEt5UOzvfO5jQcIu2Y_JijVUT2XyW9vusC92OWobU-7-Uc_ZWSY8YCCg%3D%3D?uid=0&filename=xo-2-tr.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1024x1024)
 ___
-![](https://downloader.disk.yandex.ru/preview/3853e2ec6c9d2dbd36255b1b530a5a2a0028a2b3160eda7fab797127383834d6/65447e30/ifP_4ys2u8gh447MvScu2ktwgDm7pyBOEejI5ROlRbLVBzFzMet6LKjjgpxQkf57kVhPg0pJMTlpGOYieXxKZQ%3D%3D?uid=0&filename=xo-3.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1024x1024)
+![](https://downloader.disk.yandex.ru/preview/662000ea747e7838d328ed462bef5e02ee01e3ce784002702a805f277b8ae97e/65467d06/KpsLHpRP1ZHre95wjzcUYZ9LjRC4Npj9uoPhhVWJULCHrxOY9Ya_6XUu51F6RcikLzBJiDola0czcpEkdKMxew%3D%3D?uid=0&filename=xo-3-tr.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1024x1024)
