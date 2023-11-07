@@ -7,6 +7,13 @@
 The popular game tic-tac-toe by internet with UI
 
 ## Install
+1. `pip install -r requirements.txt`
+2. open `:9000` port on your router
+3. `python main.py`
+4. `python client.py`
+
+or  
+
 1. run `XO server.exe`
 2. open `:9000` port on your router
 3. send `XO client.exe` and your `public IP` to your friend
