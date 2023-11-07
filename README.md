@@ -1,6 +1,6 @@
 # XO-the-game
 
-![](https://img.shields.io/badge/PySide-v6.4.1-blue) ![](https://img.shields.io/badge/Qt-Designer-green) 
+![image-1](https://img.shields.io/badge/Python-v3.9-green) ![](https://img.shields.io/badge/PySide-v6.4.1-blue) ![](https://img.shields.io/badge/Qt-Designer-yellow) 
 ![](https://img.shields.io/badge/Internet-p2p-red)
 
 ## About
