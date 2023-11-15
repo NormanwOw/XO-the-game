@@ -167,22 +167,24 @@ class ServerThread(QThread, MainWindow):
             getattr(self.ui, button).setIcon(QIcon(u""))
         
     def game(self, cells):
-        c1 = ['c_1', 'c_2', 'c_3']
-        c2 = ['c_4', 'c_5', 'c_6']
-        c3 = ['c_7', 'c_8', 'c_9']
-        c4 = ['c_1', 'c_4', 'c_7']
-        c5 = ['c_2', 'c_5', 'c_8']
-        c6 = ['c_3', 'c_6', 'c_9']
-        c7 = ['c_1', 'c_5', 'c_9']
-        c8 = ['c_3', 'c_5', 'c_7']
+        lists = [
+            ['c_1', 'c_2', 'c_3'],
+            ['c_4', 'c_5', 'c_6'],
+            ['c_7', 'c_8', 'c_9'],
+            ['c_1', 'c_4', 'c_7'],
+            ['c_2', 'c_5', 'c_8'],
+            ['c_3', 'c_6', 'c_9'],
+            ['c_1', 'c_5', 'c_9'],
+            ['c_3', 'c_5', 'c_7']
+        ]
 
-        for cell_lists in [c1, c2, c3, c4, c5, c6, c7, c8]:
+        for cell_list in lists:
             self.cells_count = 0
-            for cell in cell_lists:
+            for cell in cell_list:
                 if cell in cells:
                     self.cells_count += 1
                 if self.cells_count == 3:
-                    self.end_game_list = cell_lists.copy()
+                    self.end_game_list = cell_list.copy()
                     self.end_game(self.end_game_list)
                     return
         if len(self.enabled_buttons) == 0:
