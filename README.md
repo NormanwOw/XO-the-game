@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/Internet-p2p-red)
 
 ## About
-The popular game tic-tac-toe by internet with UI
+The popular game tic-tac-toe by internet with GUI
 
 ## Install
 1. `pip install -r requirements.txt`
