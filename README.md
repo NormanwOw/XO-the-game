@@ -19,8 +19,8 @@ or
 3. send `XO client.exe` and your `public IP` to your friend
 4. enjoy the game
 ___
-![page_1](http://95.216.65.93:13617/static/images/github/xo-1-tr.png)
+![xo-1](https://github.com/NormanwOw/XO-the-game/assets/118648914/b7cc4c6f-0dce-4fc4-8d91-42212bd009af)
 ___
-![page_1](http://95.216.65.93:13617/static/images/github/xo-2-tr.png)
+![xo-2-tr](https://github.com/NormanwOw/XO-the-game/assets/118648914/dd97f350-7ff0-4940-a279-47abfdb0f9be)
 ___
-![page_1](http://95.216.65.93:13617/static/images/github/xo-3-tr.png)
+![xo-3-tr](https://github.com/NormanwOw/XO-the-game/assets/118648914/c0d4f9e4-36e7-467e-8111-b1f98be45218)
